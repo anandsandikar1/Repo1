@@ -1,0 +1,3 @@
+this file contains passwords
+DB_USER=smaplsdas
+DB_PASSWORD=dsadasd$#@$@dsdsa
